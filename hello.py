@@ -1,10 +1,4 @@
-print("hello")
-print("THRHR")
-print("hello")
-print("THRHR")
-
-print("THRHR")
-print("hello")
-print("THRHR")
-print("this is new commit")
-print("something also removed")
+a=5
+b=10
+c = a+b
+print(c)
